@@ -29,7 +29,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow-green&border_radius=13)
   
   <div class="footer" align="center" style="margin:15px;">
-    <a href="mailtosmahshadrizzy006@gmail.com" target="_blank">
+    <a href="mailto:smahshadrizzy006@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
     
